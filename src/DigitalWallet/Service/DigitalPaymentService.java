@@ -1,8 +1,6 @@
 package DigitalWallet.Service;
 
 import DigitalWallet.Dao.AccountDao;
-import DigitalWallet.Dao.TransactionDao;
-import DigitalWallet.Dao.UserDao;
 import DigitalWallet.Exceptions.AccountNumberNotFound;
 import DigitalWallet.Exceptions.InsufficientAmountException;
 import DigitalWallet.Exceptions.alreadyExistsException;
